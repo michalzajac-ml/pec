@@ -1,0 +1,6 @@
+numpy==1.26.1
+scipy==1.11.3
+torch==2.1.0
+torchvision==0.16.0
+wandb==0.15.12
+tqdm==4.66.1
